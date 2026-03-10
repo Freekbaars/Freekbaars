@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm @FreekBaars</h1>
-<h3 align="center">I’m a student at the Hogeschool of Rotterdam here i studi maritime engineering</h3>
-
+<h3 align="center">I’m a student at the Hogeschool of Rotterdam here i studie maritime engineering</h3>
+- 😎 Using grasshopper to do less repedetive task 
+- 🧐 Finding new ways to use my skils in making fun things (curently working on a DJI inspire inspired drone) 
 - 🌱 I’m currently learning **C#, unity fore ai simulation**
 
 <h3 align="left">Connect with me:</h3>
